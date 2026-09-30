@@ -708,3 +708,66 @@ git rev-parse --abbrev-ref HEAD
 git help config
 git config -h
 git help config
+cl
+clear
+git init
+l
+l -l
+l -a
+ls -a -list
+git add .
+git status
+git config
+git config --global user.name "Alex"
+git status
+git config --global user.email "scernysev389@gmail.com"
+git config
+git config --list
+git init
+git config --list
+clear
+git remote add origin https://github.com/AlexChernysev/linux.git
+git config --list
+git add README.md
+nano README.md
+git add README.md
+git status
+git add .
+git status
+git commit -m "first commit"
+git config --list
+git status
+git branch -M main
+git status
+git push -u origin main
+ssh-keygen -t ed25519 -C "scernysev389@gmail.com"
+cat ~/.ssh/id_ed25519.pub
+git remote set-url origin git@github.com:AlexChernysev/linux.git
+git status
+git add .ssh/
+git status
+git rm --cached .ssh/
+git rm --cached .ssh/id_ed25519
+git rm --cached .ssh/id_ed25519.pub
+git status
+l
+git config --l
+git config --list
+tree -a
+nano .gitignore
+git status
+nano .gitignore
+git status
+nano .gitignore
+git status
+nano .gitignore
+git status
+nano .gitignore
+git status
+git add .
+git status
+git push -u origin main
+git status
+git commit -m "second commit"
+git status
+git push
