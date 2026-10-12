@@ -771,3 +771,64 @@ git status
 git commit -m "second commit"
 git status
 git push
+l
+cat README.md
+cat hola.gz
+clear
+git status
+nano README.mt
+l
+nano README.md
+git status
+git log
+cat README.md
+git status
+git add .
+git commit -m "third commit"
+git status
+git log
+cat README.md
+git checkout 2fd31ad65362da5aecf42ea4b26b61ac8761aab2
+cat README.md
+git log
+git checkout 856684b77291ec64c4f60fc9973a88c1e9192450
+git log
+cat README.md
+git status
+git push
+git branch
+git branch -s
+git branch -a
+git checkout main
+git branch
+git status
+git push
+git log
+git branch change_txt
+git branch
+cd change_txt
+git checkout change_txt
+git branch
+nano README.md
+git status
+git add .
+git commit -m "Change txt"
+git status
+cat README.md
+git checkout main
+cat README.md
+git checkout change_txt
+git branch
+git push origin change_txt
+git checkout master
+git checkout main
+git branch
+git merge change_txt
+git log
+cat README.md
+git branch
+git checkout change_txt
+cat README.md
+git checkout main
+git config
+git config --list
